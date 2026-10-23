@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Hi! My ![Visitor Count](https://profile-counter.glitch.me/oo00null/count.svg) Vistor.
+Hi! My ![Visitors](https://komarev.com/ghpvc/?username=oo00null&label=Visitors&color=5f7050&style=flat-square) Vistor.
 
 - 🧠 AI Full-Stack Engineer，专注 **Agentic Infra**
 - ⛰️ 现就职于 **ByteDance · DouyinAI**，做智能体强化学习的数据、训练与推理基础设施
