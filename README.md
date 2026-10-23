@@ -5,7 +5,7 @@
 Hi! My ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=oo00null.profile&left_text=Visitors&left_color=555555&right_color=5f7050) Vistor.
 
 - 🧠 AI Full-Stack Engineer，专注 **Agentic Infra**
-- ⛰️ 现就职于 **ByteDance · DouyinAI**，做智能体强化学习的数据、训练与推理基础设施
+- ⛰️ 现就职于 `****`，做智能体强化学习的数据、训练与推理基础设施
 - 🌱 Learning Direction：Agentic RL / Agent Harness / LLM Infra / TypeScript
 - 💻 GitHub：[@oo00null](https://github.com/oo00null)
 - 🌐 Homepage：[oo00null.github.io](https://oo00null.github.io) — 终端风格的交互式主页
@@ -28,27 +28,27 @@ Hi! My ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=oo00null.profil
 
 ### 经历
 
-- **ByteDance · DouyinAI** — AI4SE · Agentic RL · Infra，智能体强化学习的数据、训练与推理基础设施　`2025.12 — now`
-- **ByteDance · E-commerce Tech** — 真实流量下的链路问题与工程效率　`2025.05 — 2025.09`
-- **ByteDance · Live Streaming Tech** — 直播场景的稳定性与性能优化　`2025.01 — 2025.05`
-- **Bilibili · OGV Tech** — 番剧与影视业务线工程实践　`2024.07 — 2024.11`
+- `****` — AI4SE · Agentic RL · Infra，智能体强化学习的数据、训练与推理基础设施　`****`
+- `****` — 真实流量下的链路问题与工程效率　`****`
+- `****` — 直播场景的稳定性与性能优化　`****`
+- `****` — 番剧与影视业务线工程实践　`****`
 
 ### 开源
 
-- 🔧 **ByteDance / DeerFlow** — SuperAgent harness · `maintainer`
+- 🔧 `****` — SuperAgent harness · `maintainer`
 - 🪶 **Apache Fory** — Apache 软件基金会孵化项目，序列化框架 · `committer`
-- 🏅 **腾讯犀鸟 · 开源实践奖** — Tencent Rhino Bird Open Source Practical Award
-- ⚛️ **Tencent Omi** — 腾讯前端框架，跨框架组件方案 · `contributor`
-- ☁️ **Alibaba Higress · OpenYurt · Spring AI Alibaba** — 云原生网关、边缘计算与 AI 应用框架 · `contributor`
+- 🏅 `****` — Open Source Practical Award
+- ⚛️ `****` — 前端框架，跨框架组件方案 · `contributor`
+- ☁️ `****` — 云原生网关、边缘计算与 AI 应用框架 · `contributor`
 
 ### 精选项目
 
-- **[LLM-NoteBook](https://github.com/oo00null/LLM-NoteBook)** ⭐ 18 — 大模型算法笔记：从 Transformer 原理到微调、推理与评测
-- **[Agent_Kimi_ClaudeCode](https://github.com/oo00null/Agent_Kimi_ClaudeCode)** ⭐ 17 — 手把手搭建 DeepResearch Agent：Kimi K2 与 Claude Code 实战
-- **[myBlog](https://github.com/oo00null/myBlog)** ⭐ 15 — 技术博客，工程实践的沉淀
-- **[recruiting-skills](https://github.com/oo00null/recruiting-skills)** ⭐ 10 — 招聘判断标准沉淀为可复用技能
-- **[InBrowserMcp](https://github.com/oo00null/InBrowserMcp)** ⭐ 9 — 浏览器内运行的 MCP 实现，省掉本地进程
-- **[LoopLab](https://github.com/oo00null/LoopLab)** ⭐ 2 — 理解、评估并改进 Agent loop 的开源平台
+- **[LLM-NoteBook](https://github.com/oo00null/LLM-NoteBook)** ⭐ `**` — 大模型算法笔记：从 Transformer 原理到微调、推理与评测
+- **[Agent_Kimi_ClaudeCode](https://github.com/oo00null/Agent_Kimi_ClaudeCode)** ⭐ `**` — 手把手搭建 DeepResearch Agent
+- **[myBlog](https://github.com/oo00null/myBlog)** ⭐ `**` — 技术博客，工程实践的沉淀
+- **[recruiting-skills](https://github.com/oo00null/recruiting-skills)** ⭐ `**` — 招聘判断标准沉淀为可复用技能
+- **[InBrowserMcp](https://github.com/oo00null/InBrowserMcp)** ⭐ `**` — 浏览器内运行的 MCP 实现，省掉本地进程
+- **[LoopLab](https://github.com/oo00null/LoopLab)** ⭐ `**` — 理解、评估并改进 Agent loop 的开源平台
 
 ---
 
